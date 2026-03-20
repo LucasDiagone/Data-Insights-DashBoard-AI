@@ -10,7 +10,7 @@ app.use(
   pinoHttp({
     logger,
     serializers: {
-      req(req: Request) {
+      req(req: Request & { id: string }) {
         return {
           id: req.id,
           method: req.method,
