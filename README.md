@@ -131,11 +131,3 @@ https://www.linkedin.com/in/lucas-diagone-691285104/
 🔗 GitHub:  
 https://github.com/LucasDiagone
 
----
-
-## ⭐ Próximos Passos
-
-- Melhorar interface do chatbot  
-- Integração com banco de dados em tempo real  
-- Deploy completo da aplicação com backend + frontend  
-- Evolução para AI Data Copilot multi-fonte  
