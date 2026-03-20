@@ -39,10 +39,10 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ---
 
-## 🧠 How It Works
+## 🧠 Como Funciona
 
 <p align="center">
-  <b>User Question → Agent → Python Tool → DataFrame → Insight</b>
+  <b>Pergunta → Agent → Execução em Python → DataFrame → Geração de Insights</b>
 </p>
   
 ---
