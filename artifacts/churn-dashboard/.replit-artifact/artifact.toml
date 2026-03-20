@@ -1,0 +1,31 @@
+kind = "data-app"
+previewPath = "/"
+title = "Dashboard de Análise de Churn"
+version = "1.0.0"
+id = "artifacts/churn-dashboard"
+router = "path"
+
+[[integratedSkills]]
+name = "data-visualization"
+version = "1.0.0"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 24835
+
+[services.development]
+run = "pnpm --filter @workspace/churn-dashboard run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/churn-dashboard", "run", "build" ]
+publicDir = "artifacts/churn-dashboard/dist/public"
+serve = "static"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "24835"
+BASE_PATH = "/"
