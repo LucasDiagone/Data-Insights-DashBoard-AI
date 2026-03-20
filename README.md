@@ -16,15 +16,34 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ---
 
-## 📊 Dashboard Preview
+## 📊 Dashboard & AI Copilot
 
 <p align="center">
-  <img src="images/dashboard.png" width="900"/>
+  <img src="dashboard.png" width="900"/>
 </p>
 
 <p align="center">
-  <em>Interactive dashboard for churn analysis with dynamic KPIs and segmentation</em>
+  <em>AI-powered dashboard for churn analysis with dynamic KPIs and intelligent insights</em>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="Pergunta.png" width="900"/>
+</p>
+
+<p align="center">
+  <em>AI Data Copilot using a ReAct Agent to analyze data and generate insights in real time</em>
+</p>
+
+---
+
+## 🧠 How It Works
+
+<p align="center">
+  
+```text
+User Question → Agent → Python Tool → DataFrame → Insight
 
 ---
 
