@@ -41,10 +41,9 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 ## 🧠 How It Works
 
 <p align="center">
+  <b>User Question → Agent → Python Tool → DataFrame → Insight</b>
+</p>
   
-```text
-User Question → Agent → Python Tool → DataFrame → Insight
-
 ---
 
 🔗 **Acesse o dashboard (Railway):**
