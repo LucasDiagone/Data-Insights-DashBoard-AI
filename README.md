@@ -68,7 +68,6 @@ Foi desenvolvido um chatbot inteligente capaz de:
 - Power BI / Dashboard Web
 - LLMs (OpenAI)
 - LangChain (Agents, Tools)
-- FAISS (Vector Store)
 - RAG (Retrieval-Augmented Generation)
 - Replit (AI-assisted development)
 - Railway (deploy e hospedagem do dashboard)
