@@ -18,7 +18,9 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ## 📊 Preview do Dashboard
 
-![Dashboard](dashboard.png)
+<p align="center">
+  <img src="dashboard.png" width="800"/>
+</p>
 
 ---
 
@@ -38,7 +40,13 @@ O dashboard foi desenvolvido com base nos dados tratados e estruturados, utiliza
 
 Dataset público de churn (telecom):
 
-🔗 https://docs.google.com/spreadsheets/d/1W9_d6wi9x7CB5z0Rx0km7LmiOvfW_laW2ywFSAy2QRU/export?format=csv
+🔗 Kaggle:  
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+🔗 Google Sheets (fonte ativa do projeto):  
+https://docs.google.com/spreadsheets/d/1W9_d6wi9x7CB5z0Rx0km7LmiOvfW_laW2ywFSAy2QRU/export?format=csv  
+
+📌 *Optei por utilizar o Google Sheets como fonte de dados para permitir atualizações contínuas da base, possibilitando que o projeto reflita automaticamente novas informações sem necessidade de reprocessamento manual.*
 
 ---
 
@@ -63,6 +71,7 @@ Foi desenvolvido um chatbot inteligente capaz de:
 - FAISS (Vector Store)
 - RAG (Retrieval-Augmented Generation)
 - Replit (AI-assisted development)
+- Railway (deploy e hospedagem do dashboard)
 
 ---
 
@@ -102,12 +111,13 @@ O projeto é dividido em três camadas principais:
 - Simulação de ambiente corporativo
 - Dashboard criado com **apoio de IA (Replit)**
 - Chatbot analítico para geração de insights
+- Atualização automática da base via Google Sheets
 
 ---
 
 ## 📌 Objetivo
 
-Demonstrar na prática como utilizar **LLMs, Agents e RAG** para transformar dados em **insights acionáveis**, combinando análise tradicional com inteligência artificial.
+Demonstrar na prática como utilizar **LLMs, Agents e RAG** para transformar dados em **insights acionáveis**, além de explorar a **automatização da criação de dashboards com apoio de IA**.
 
 ---
 
@@ -121,3 +131,11 @@ https://www.linkedin.com/in/lucas-diagone-691285104/
 🔗 GitHub:  
 https://github.com/LucasDiagone
 
+---
+
+## ⭐ Próximos Passos
+
+- Melhorar interface do chatbot  
+- Integração com banco de dados em tempo real  
+- Deploy completo da aplicação com backend + frontend  
+- Evolução para AI Data Copilot multi-fonte  
