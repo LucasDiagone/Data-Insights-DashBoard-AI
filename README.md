@@ -16,8 +16,9 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ---
 
-## 📊 Dashboard & AI Copilot
-
+## 📊 Dashboard & AI Data Copilot em ação
+> O agent recebe a pergunta em linguagem natural, raciocina sobre qual código escrever, executa no DataFrame e retorna a resposta com os valores exatos dos dados reais.
+> 
 <p align="center">
   <img src="dashboard.png" width="900"/>
 </p>
@@ -53,16 +54,6 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 - https://b90be4c4-970a-4140-ab69-8459bfb8d618-00-3h6b71i09oqlk.janeway.replit.dev/
 
 > 📌 O dashboard foi desenvolvido com apoio de ferramentas de IA (Replit) para acelerar a construção da interface.
-
----
-
-## 🎬 Demonstração — AI Data Copilot em ação
-
-<p align="center">
-  <img src="assets/Pergunta.png" width="800"/>
-</p>
-
-> O agent recebe a pergunta em linguagem natural, raciocina sobre qual código escrever, executa no DataFrame e retorna a resposta com os valores exatos dos dados reais.
 
 ---
 
