@@ -18,7 +18,7 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ## 📊 Preview do Dashboard
 
-![Dashboard Churn](assets/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
