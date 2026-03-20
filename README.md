@@ -16,9 +16,15 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ---
 
-## 📊 Preview do Dashboard
+## 📊 Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+<p align="center">
+  <img src="images/dashboard.png" width="900"/>
+</p>
+
+<p align="center">
+  <em>Interactive dashboard for churn analysis with dynamic KPIs and segmentation</em>
+</p>
 
 ---
 
