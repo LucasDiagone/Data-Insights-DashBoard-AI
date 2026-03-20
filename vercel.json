@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "buildCommand": "cd artifacts/api-server && pnpm run build",
-  "outputDirectory": "artifacts/api-server/dist",
-  "functions": {
-    "artifacts/api-server/dist/index.cjs": {
-      "runtime": "nodejs20.x"
+  "builds": [
+    {
+      "src": "artifacts/api-server/package.json",
+      "use": "@vercel/node",
+      "config": {
+        "includeFiles": ["artifacts/api-server/dist/**"]
+      }
     }
-  },
+  ],
   "routes": [
     {
       "src": "/(.*)",
