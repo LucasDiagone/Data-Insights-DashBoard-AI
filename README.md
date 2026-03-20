@@ -20,6 +20,8 @@ O objetivo é demonstrar como integrar **BI + IA** para criar soluções moderna
 
 ![Dashboard](images/dashboard.png)
 
+---
+
 🔗 **Acesse o dashboard (Railway):**
 - https://workspacechurn-dashboard-production.up.railway.app/
 
